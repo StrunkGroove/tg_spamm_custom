@@ -1,4 +1,5 @@
 import os
+import secrets
 
 from pathlib import Path
 
@@ -11,7 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '($u^$$zlzahssdq-ca%g)de066&1*#^#j60@0q13%hij8nyu1i'
-
+SECRET_KEY = secrets.SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
