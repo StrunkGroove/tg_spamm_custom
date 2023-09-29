@@ -1,1 +1,1 @@
-SECRET_KEY = '($u^$$zlzahssdq-ca%g)de066&1*#^#j60@0q13%hij8nyu1i'
+key = '($u^$$zlzahssdq-ca%g)de066&1*#^#j60@0q13%hij8nyu1i'
